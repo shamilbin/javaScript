@@ -1,0 +1,2 @@
+# javaScript
+basic code pratice
