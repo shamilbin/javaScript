@@ -99,14 +99,14 @@ let
 
 // let strNumber = "20"
 // console.log(strNumber)
-// // CONVERT It into Number
+// CONVERT It into Number
 
 
 // let finalNumber = Number(strNumber);
 // console.log(finalNumber, typeof finalNumber)
 
 
-// // Boolean to Number
+// Boolean to Number
 
 // let b1 = true; // 1
 // let c1 = false; // 0

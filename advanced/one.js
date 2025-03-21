@@ -30,21 +30,21 @@ In JavaScript Everything is almost in Objects
 //     isAlive: true
 // }
 
-// // to add
-// // objectName.key = value
+// to add
+// objectName.key = value
 // person.lname = "Ali";
 // person.phone = "+919618211626"
 
 // console.log(person)
 
-// // update 
-// // objectName.key = value
+// update 
+// objectName.key = value
 // person.age = 24;
 // console.log(person)
 
-// // delete 
+// delete 
 
-// // delete objectName.key
+// delete objectName.key
 // delete person.age;
 // console.log(person)
 
@@ -82,7 +82,7 @@ In JavaScript Everything is almost in Objects
 
 // Loops in Objects
 
-let person = {
+let person1 = {
     fname: 'Suhail',
     age: 23,
     isAlive: true
@@ -94,7 +94,7 @@ let person = {
 
 
 // for in loop to print all keys 
-for (let a in person) {
+for (let a in person1) {
     console.log(a)
 }
 
@@ -193,9 +193,9 @@ for (let value in person) {
                 1.Setup GitHub README.md
                 2.Blog on All Types of Functions JS
                 3.Questions of JS till Objects solve that
-                            i.create a new private repo name jsTasks
-                            ii.Add me as a collab
+                            i.   create a new private repo name jsTasks
+                            ii.  Add me as a collab
                             iii. solve all question 
-                            iv.push the code to GitHub
+                            iv.  push the code to GitHub
                 4.Learn what are object methods in JS learn any 10
 */
