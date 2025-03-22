@@ -26,3 +26,15 @@ student[2] = true;
 
 console.log(person);
 console.log(student);
+
+//          DELETE
+
+delete person.age;
+student.shift();
+
+let newDelet = student.pop();
+student.pop();
+
+console.log(person);
+console.log(student);
+console.log(newDelet);
