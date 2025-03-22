@@ -6,8 +6,8 @@ let person = {
 
 let student = [`Hisham`, 29, true, null, "kavanoor"];
 
-console.log(person)
-console.log(student)
+console.log(person);
+console.log(student);
 
 //  CRUD operaton in both object and array
 
@@ -16,5 +16,13 @@ console.log(student)
 person.city = "kerlala";
 student.unshift("India");
 
-console.log(person)
-console.log(student)
+console.log(person);
+console.log(student);
+
+//      update
+
+person.place = "manjeri";
+student[2] = true;
+
+console.log(person);
+console.log(student);
