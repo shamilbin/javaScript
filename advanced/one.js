@@ -182,20 +182,10 @@ for (let value in person) {
 }
 /*
 
-            1. setup gitHub README.md 
+         
             2. blog on all type of fuction in js
-            3. Question in js till object solve that
-                 i. create a new private repo name. jsTask
-                 ii. 
 
-                Task :
 
-                1.Setup GitHub README.md
-                2.Blog on All Types of Functions JS
-                3.Questions of JS till Objects solve that
-                            i.   create a new private repo name jsTasks
-                            ii.  Add me as a collab
-                            iii. solve all question 
-                            iv.  push the code to GitHub
+
                 4.Learn what are object methods in JS learn any 10
 */
