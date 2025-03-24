@@ -18,7 +18,7 @@ suhail()
 // It is used to print a variable with strings or inside a string
 // ``
 
-let age = 20;
+let age1 = 20;
 let names = "Suhail"
 // console.log("My Age is " + age + "and My name is Suhail", age)
 
