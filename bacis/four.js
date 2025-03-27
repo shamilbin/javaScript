@@ -37,7 +37,7 @@
 // // Not an Number
 // // console.log(a)
 
-// // + in strings will not work in calcus ...it will concat 
+// + in strings will not work in calcus ...it will concat 
 
 // ////Anything to Number 
 

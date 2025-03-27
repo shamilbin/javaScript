@@ -16,7 +16,7 @@
 
 */
 
-let arr = ["Suhail", "Shamil", "Ishwari"]
+let arr1 = ["Suhail", "Shamil", "Ishwari"]
 
 // for loop
 
@@ -67,8 +67,84 @@ let arr = ["Suhail", "Shamil", "Ishwari"]
 // }
 
 
+//≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠
 
 
+
+// console.log(arr)
+
+
+
+//         0   1   2   3   4
+//         1   2   3   4
+
+
+
+// for (let i = 0; i <= num.length - 1; i++) {
+
+//     console.log(num[i])
+// }
+
+
+/*
+1. declaration  i =0;
+2. condition i<10;
+3.increment i++
+4.code block
+
+*/
+
+// let i = 0;
+
+// while (i <= num.length - 1) {
+//     console.log(num[i])
+//     i++;
+// }
+
+
+// let i = 0;
+
+// do {
+//     console.log(num[i])
+//     i++
+// } while (i <= num.length - 1)
+
+
+// forEach
+let num = [10, 20, 30, 40]
+
+// num.forEach((x) => {
+//     console.log(x)
+// })
+
+// let data = num.forEach((x) => x);
+// console.log(data)
+
+let data = num.map((x) => x)
+
+// console.log(data)
+
+
+// function sum(a, b) {
+
+//     return a + b
+// }
+
+// // sum(2, 2)
+// let value = sum(2, 2) * 4;
+// console.log(value)
+
+
+let arr = ["Suhail", "Azhar", "Shamil"]
+
+for (let i of arr) {
+    console.log(i)
+}
+
+for (let i in arr) {
+    console.log(arr[i])
+}
+//≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠
 //          shamils code
 
 
