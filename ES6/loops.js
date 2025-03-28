@@ -135,7 +135,7 @@ let data = num.map((x) => x)
 // console.log(value)
 
 
-let arr = ["Suhail", "Azhar", "Shamil"]
+let arr11 = ["Suhail", "Azhar", "Shamil"]
 
 for (let i of arr) {
     console.log(i)
